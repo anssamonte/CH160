@@ -1,0 +1,6 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+1440-SALC,Female ,0,No ,No,5,Yes ,No ,Fiber optic ,Yes ,Yes ,Yes ,Yes,Yes ,Yes ,One year,Yes ,Electronic check,22.36,1110.6,
+4720-CPDJ,Female  ,0,Yes,Yes ,3,Yes ,No ,DSL,Yes ,No ,Yes ,Yes ,No ,Yes ,Month-to-month,Yes ,Bank transfer (automatic),33.25,209.06,
+1069-DGDF,Male ,1,Yes ,Yes ,1,No ,Yes ,Fiber optic ,No ,No ,No ,Yes,Yes ,No ,One year ,No ,Credit card (automatic),29.7,528.35,
+1111-RRNZ,Male ,0,No ,No ,8,No ,No phone ,No ,No internet service ,No internet service ,No internet service ,No internet service ,No internet service ,No internet service ,Two year ,No ,Mailed check,32.97,1022.96,
+1005-MCWB ,Male ,1,No ,No ,56,Yes ,Yes ,Yes ,Yes ,Yes ,Yes ,Yes ,Yes ,Yes ,Two year ,Yes ,Electronic check,100.2,2908.45,
